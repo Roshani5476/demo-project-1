@@ -1,0 +1,36 @@
+FEATURE NAMES
+================================================================================
+
+Total features: 31
+
+ 1. CreditScore
+ 2. Gender
+ 3. Age
+ 4. Tenure
+ 5. Balance
+ 6. NumOfProducts
+ 7. HasCrCard
+ 8. IsActiveMember
+ 9. EstimatedSalary
+10. ZeroBalance
+11. CreditScoreCategory
+12. ZeroBalanceFlag
+13. InactiveWithBalance
+14. BalanceToSalaryRatio
+15. ProductDiversity
+16. HighRiskGeography
+17. AccountHealthScore
+18. SeniorCustomer
+19. Geography_Germany
+20. Geography_Spain
+21. AgeGroup_Senior
+22. AgeGroup_Young
+23. Tenure_Loyal
+24. Tenure_New
+25. BalanceCat_1-50K
+26. BalanceCat_50K-100K
+27. BalanceCat_100K-150K
+28. BalanceCat_150K+
+29. ActiveBalCat_Active + Zero Balance
+30. ActiveBalCat_Inactive + Has Balance
+31. ActiveBalCat_Inactive + Zero Balance
